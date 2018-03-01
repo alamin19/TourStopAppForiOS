@@ -1,0 +1,21 @@
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/bin/Debug/TourLib.iOS.dll
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/bin/Debug/TourLib.iOS.pdb
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/obj/Debug/optimized/
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.csprojResolveAssemblyReference.cache
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.csproj.CoreCompileInputs.cache
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.dll
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.pdb
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/bin/Debug/TourLib.iOS.dll
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/bin/Debug/TourLib.iOS.pdb
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/obj/Debug/optimized/
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.csprojResolveAssemblyReference.cache
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.csproj.CoreCompileInputs.cache
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.dll
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.pdb
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/bin/Debug/TourLib.iOS.dll
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/bin/Debug/TourLib.iOS.pdb
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/obj/Debug/optimized/
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.csprojResolveAssemblyReference.cache
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.csproj.CoreCompileInputs.cache
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.dll
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourLib.iOS/obj/Debug/TourLib.iOS.pdb

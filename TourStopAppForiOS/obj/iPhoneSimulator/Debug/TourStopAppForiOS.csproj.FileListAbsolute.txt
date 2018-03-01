@@ -1,0 +1,36 @@
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourStopAppForiOS.exe
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourStopAppForiOS.pdb
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.csproj.CoreCompileInputs.cache
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.exe
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.pdb
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourLib.iOS.dll
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourLib.iOS.pdb
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.csprojResolveAssemblyReference.cache
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourStopAppForiOS.exe
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourStopAppForiOS.pdb
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourLib.iOS.dll
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourLib.iOS.pdb
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.csprojResolveAssemblyReference.cache
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.csproj.CoreCompileInputs.cache
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.exe
+/Users/remotertiger_user/Dropbox/GitHubProjects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.pdb
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourStopAppForiOS.exe
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourStopAppForiOS.pdb
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourLib.iOS.dll
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/bin/iPhoneSimulator/Debug/TourLib.iOS.pdb
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.csprojResolveAssemblyReference.cache
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.csproj.CoreCompileInputs.cache
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.exe
+/Users/Amin/Desktop/Xamarin Projects/TourStopAppForiOS/TourStopAppForiOS/obj/iPhoneSimulator/Debug/TourStopAppForiOS.pdb

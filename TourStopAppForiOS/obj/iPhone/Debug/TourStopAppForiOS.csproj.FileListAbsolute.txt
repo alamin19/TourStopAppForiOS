@@ -1,0 +1,9 @@
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/bin/iPhone/Debug/TourStopAppForiOS.exe
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/bin/iPhone/Debug/TourStopAppForiOS.pdb
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/_PartialAppManifest.items
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/_BundleResourceWithLogicalName.items
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/optimized/
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/TourStopAppForiOS.csproj.CoreCompileInputs.cache
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/TourStopAppForiOS.exe
+/Users/remotertiger_user/Dropbox/XamarinApps/TourStopAppForiOS/TourStopAppForiOS/obj/iPhone/Debug/TourStopAppForiOS.pdb

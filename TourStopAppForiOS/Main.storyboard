@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tailor-made Tour Stops" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="197">
+                                <rect key="frame" x="0.0" y="44" width="320" height="30"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="25"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="201">
+                                <rect key="frame" x="0.0" y="527" width="320" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="205">
+                                <rect key="frame" x="0.0" y="464" width="320" height="2"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                <rect key="contentStretch" x="0.0" y="0.0" width="1" height="0.20000000000000001"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="2" id="EAP-V4-83Z"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="204">
+                                <rect key="frame" x="0.0" y="482" width="320" height="30"/>
+                                <state key="normal" title="Calculate Tour Duration"/>
+                                <connections>
+                                    <action selector="CalcTourDurationButton_TouchUpInside:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2075"/>
+                                </connections>
+                            </button>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="2281">
+                                <rect key="frame" x="20" y="94" width="280" height="352"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <inset key="scrollIndicatorInsets" minX="0.0" minY="20" maxX="0.0" maxY="20"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="2282">
+                                        <rect key="frame" x="0.0" y="28" width="280" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="2282" id="2283">
+                                            <rect key="frame" x="0.0" y="0.0" width="280" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="201" secondAttribute="trailing" id="3HH-Ew-LHY"/>
+                            <constraint firstAttribute="trailing" secondItem="2281" secondAttribute="trailing" constant="20" id="4nB-IS-NaA"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="201" secondAttribute="bottom" constant="20" id="8bZ-1o-2bI"/>
+                            <constraint firstItem="204" firstAttribute="top" secondItem="205" secondAttribute="bottom" constant="16" id="Fdg-r6-hOp"/>
+                            <constraint firstItem="201" firstAttribute="top" secondItem="204" secondAttribute="bottom" constant="15" id="KHk-9j-gNh"/>
+                            <constraint firstItem="205" firstAttribute="leading" secondItem="204" secondAttribute="leading" id="NKa-Rr-Cl9"/>
+                            <constraint firstAttribute="trailing" secondItem="197" secondAttribute="trailing" id="RKr-JA-JeJ"/>
+                            <constraint firstAttribute="trailing" secondItem="204" secondAttribute="trailing" id="RvA-gC-qQ7"/>
+                            <constraint firstItem="204" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Vsa-3j-KGq"/>
+                            <constraint firstItem="2281" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20" id="WCe-0c-VgT"/>
+                            <constraint firstItem="2281" firstAttribute="top" secondItem="197" secondAttribute="bottom" constant="20" id="cUY-0z-Hvb"/>
+                            <constraint firstItem="201" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="mrv-C7-hWd"/>
+                            <constraint firstItem="197" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="rCA-Rd-Xdf"/>
+                            <constraint firstItem="197" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="24" id="t5V-LM-E0E"/>
+                            <constraint firstItem="205" firstAttribute="trailing" secondItem="204" secondAttribute="trailing" id="twG-EE-SO6"/>
+                            <constraint firstItem="205" firstAttribute="top" secondItem="2281" secondAttribute="bottom" constant="18" id="zzl-P9-zKV"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="TableView1" destination="2281" id="name-outlet-2281"/>
+                        <outlet property="calcTourDurationButton" destination="204" id="name-outlet-204"/>
+                        <outlet property="displayDurationLabel" destination="201" id="name-outlet-201"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+</document>
